@@ -7,4 +7,8 @@ class Test
     {
         echo "Form Test -> test()";
     }
+    public function log()
+    {
+        echo 'is ok';
+    }
 }
