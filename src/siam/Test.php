@@ -10,6 +10,5 @@ class Test
     public function log()
     {
         echo 'is ok';
-        
     }
 }
